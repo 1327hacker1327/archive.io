@@ -53,3 +53,23 @@ body{
 .anim:hover{
 background-color: rgb(231, 92, 231) !important;
 }
+@media (max-width: 500px) {
+    .tex{
+      font-size: 2vw ; /* Уменьшенный размер текста */
+    } 
+    .tex2{
+      width: 150px !important; 
+    } 
+    .zagolovok{
+      font-size: 4vw !important; /* Уменьшенный размер текста */
+    } 
+    .f{
+        width: 100px !important;
+        height: 60px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    
+
+  }
