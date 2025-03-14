@@ -73,7 +73,7 @@ color: white !important;
 }
 @media (max-width: 500px) {
     .tex{
-      font-size: 1vw ; /* Уменьшенный размер текста */
+      font-size: 1vw !important; /* Уменьшенный размер текста */
     } 
     .zagolovok{
       font-size: 4vw !important; /* Уменьшенный размер текста */
